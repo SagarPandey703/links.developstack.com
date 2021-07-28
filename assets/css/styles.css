@@ -107,7 +107,7 @@ footer {
 @media screen and (max-width: 1000px) {
   #name {
     font-size: 1.2rem;
-    color: #faa203;;
+    color: #faa203;
     font-weight: 600;
   }
   #bio {
