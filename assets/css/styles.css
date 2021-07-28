@@ -30,7 +30,7 @@ a {
   height: 10rem;
   margin: 0 auto;
   border-radius: 50%;
-  background: url(/assets/images/logo.png);
+  background-image: url(/assets/images/logo.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
