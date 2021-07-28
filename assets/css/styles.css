@@ -25,6 +25,7 @@ a {
   z-index: 2;
 }
 #avatar {
+  border: 2px solid white;
   width: 10rem;
   height: 10rem;
   margin: 0 auto;
